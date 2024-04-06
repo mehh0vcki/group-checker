@@ -3,8 +3,8 @@
     <img width="1200" src="https://github.com/mehh0vcki/group-checker/blob/main/images/real_title.png" alt="mehhovcki group autoclaimer">
 </p>
 
-# group checker
-group account checker, that works for **funds** and **pending**. might be useful for selling roblox groups with funds, idk. 🤷‍♂️
+# group checker,
+or codename `valley` is a group account checker, that works for **funds** and **pending**. might be useful for selling roblox groups with funds, idk. 🤷‍♂️
 
 this checker offers user-friendly ui, that will make experience with this software easier than ever.
 
