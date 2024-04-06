@@ -1,5 +1,6 @@
+
 <p align="center">
-    <img width="500" src="https://raw.githubusercontent.com/mehh0vcki/group-autoclaimer/main/images/title.png" alt="mehhovcki group autoclaimer">
+    <img width="500" src="https://github.com/mehh0vcki/group-checker/blob/main/images/title.png" alt="mehhovcki group autoclaimer">
 </p>
 
 # group checker
